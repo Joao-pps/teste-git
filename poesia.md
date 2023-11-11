@@ -34,4 +34,6 @@ os pássaros
 como um rumo
 nem desconfiado...
 
-simulando um git push de um usuario
+git push
+git pull
+git fetch
